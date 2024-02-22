@@ -9,5 +9,6 @@
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> . .
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> . .
 ‎      ‏‏‎
-## Lenguaje utilizado: Python 
+## Lenguaje utilizado: Python ![icons8-python](https://github.com/agustinphx/Analisis_de_Datos/assets/58674979/9a1b9882-c9c1-4036-81a1-44d947ee4b26)
+
 https://www.python.org/
